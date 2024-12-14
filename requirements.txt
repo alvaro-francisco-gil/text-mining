@@ -17,6 +17,7 @@ typer
 jupyter
 ipykernel
 portalocker
-transformers
+transformers==4.31
 torch==2.2.0
 torchtext==0.17.0
+openai
