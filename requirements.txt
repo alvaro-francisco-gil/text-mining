@@ -23,3 +23,4 @@ torchtext==0.17.0
 openai
 nltk
 datasets
+seaborn
